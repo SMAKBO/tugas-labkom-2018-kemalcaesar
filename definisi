@@ -1,41 +1,191 @@
 <!DOCTYPE html>
 <html>
 <head>
-<body background="img/bc2.jpg">
-
-	<title>Carvone In the daily life</title>
-	<link rel="stylesheet" type="text/css" href="">
-	<style type="text/css">
-	</style>
-
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>definition</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <!-- Bulma Version 0.6.0 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css" integrity="sha256-HEtF7HLJZSC3Le1HcsWbz1hDYFPZCqDhZa9QsCgVUdw=" crossorigin="anonymous" />
+  <link rel="stylesheet" type="text/css" href="../css/blog.css">
 </head>
-<body style="background-color: #ffcc99; margin: 20px; border-color: red">
+<style type="text/css">
+  body {background-color: lightgreen;}
+</style>
+<body>
+  <div class="container">
+    <!-- START NAV -->
+    <nav class="navbar is-info">
+      <div class="navbar-brand">
+        <a class="navbar-item brand-text" href="../">
+          Home         
+        </a>
+        <div class="navbar-burger burger" data-target="navMenu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+      <div id="navMenu" class="navbar-menu">
+        <div class="navbar-start">
+          <a class="navbar-item" href="#">
+            uses
+            
+          </a>
+          <a class="navbar-item" href="#">
+            production
+            
+          </a>
+          <a class="navbar-item" href=""> 
+            history
+          </a>
+          <a class="navbar-item" href="">
+           structure
+          </a>
+          <a class="navbar-item" href="">
+            Ethymologi
+          </a>
+        </div>
+      </div>
+    </nav>
+    <!-- END NAV -->
 
-<H1 align="center"><marquee scrollamount=”10”>Usefull Carvone</marquee></H1>
-<div class="parallax; style= "></div> 
-<center><img src="img/download.png" style="width:250px;height:300px; margin-left: 50px">
+    <!-- START ARTICLE FEED -->
+    <section class="articles">
+        <div class="column is-8 is-offset-2">
+
+          <!-- START PROMO BLOCK -->
+          <section  class="hero is-info is-bold is-small promo-block">
+            <div class="hero-body ">
+              <div class="container">
+                <h1 class="title">
+                  <i class="fa fa-bell-o"></i> 
+                   Definition of carvone
+                </h1>
+              
+                <h2 class="subtitle">
+                  mari kita bahas
+                </h2>
+              </div>
+            </div>
+          </section>
+          <!-- END PROMO BLOCK -->
+
+          <!-- START ARTICLE -->
+          <div class="card article">
+            <div class="card-content">
+              <div class="media">
+                <div class="media-center">
+                    <img src="https://github.com/SMAKBO/tugas-labkom-2018-kemalcaesar/blob/master/img/Carvone-2D-structure-CT1000690902.png?raw=true" class="author-image" alt="Placeholder image">
+                </div>
+                <div class="media-content has-text-centered">
+                  <p class="title article-title">carvone adalah...?</p>
+                  <p class="subtitle is-6 article-subtitle">
+                    <a href="#">@d</a> on October 7, 2017
+                  </p>
+                </div>
+              </div>
+
+            <div class="content article-body">
+                <p>Carvone is a member of a family of chemicals called terpenoids. Terpen are a large and diverse class of organic compounds, produced by a variety of plants, particularly conifers, and by some insects such as termites or swallowtail butterflies, which emit terpenes from their osmeteria. They often have a strong odor and may protect the plants that produce them by deterring herbivores and by attracting predators and parasites of herbivores. </p>
+                <p> The difference between terpenes and terpenoids is that terpenes are hydrocarbons, whereas terpenoids contain additional functional groups. When terpenes are modified chemically, such as by oxidation or rearrangement of the carbon skeleton, the resulting compounds are generally referred to as terpenoids. Some authors will use the term terpene to include all terpenoids. Terpenoids are also known as isoprenoids.</p>
+                <p>Terpenes and terpenoids are the primary constituents of the essential oils of many types of medicinal plants and flowers. Essential oils are used widely as fragrances in perfumery, and in medicine and alternative medicines such as aromatherapy. Synthetic variations and derivatives of natural terpenes and terpenoids also greatly expand the variety of aromas used in perfumery and flavors used in food additives. Vitamin A is a terpenoid. That is that causes Carvone is found naturally in many essential oils, but is most abundant in the oils from seeds of caraway (Carum carvi), spearmint (Mentha spicata), and etc.</p>
+                <p>Like an organic compound in general, Carvone also has an IUPAC’s name that is 2-Methyl-5-(prop-1-en-2-yl)cyclohex-2-en-1-one. And also the others name others name such as:</p>
+                <ul>
+                  <li>2-Methyl-5-(prop-1-en-2-yl)cyclohex-2-enone.</li>
+                  <li> 2-Methyl-5-(1-methylethenyl)-2-cyclohexenone Δ-p-Menthadien-2-one.</li>
+                  <li> 1-Methyl-4-isopropenyl-Δ-cyclohexen-2-oneCarvol (obsolete).
 
 
-	<p style= "font-size: 22px ; text-decoration: underline"> Uses of Carvone </p>
-	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; background-color: #FFF0F5 ; font-size: 20px; margin-right: 20px"> In general carvones are used in the food industry, and in aromatherapy like many essential oils, it is also used in air fresheners for it pleasant smell. It also has several therapeut effects that make it a perfect choice in the treatment of certain medical conditions.</p>
-	
-	<p style= "font-size: 22px ; text-decoration: underline"> Carvone in Food </p>
-	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; background-color: #FFF0F5 ; font-size: 20px">It has been used in food for over millennia. The very famous Wrigley's Spearmint Gum uses natural spearmint oil that has been extracted from Mentha spicata, and the other spearmint flavored Life Savers use the same. Carvone that has been extracted from dill and caraway have also been in use in the food industry. The famous European drink Kummel is created with a mixture of an extract from caraway and alcohol.</p>
-	<p><img src="img/images.jpg" style="float:left;width:250px;height:300px; margin-right: 50px"></p>
-	<img src="img/mintt.jpg" style="float:center;width:250px;height:300px; margin-left: 50px">
+</li>
 
-	<p style= "font-size: 22px; text-decoration: underline">Carvone in Agriculture</p>
-	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; background-color: #FFF0F5 ; font-size: 20px"> It is commonly used in Netherlands to prevent the sprouting of potatoes that have been kept in storage. A study was conducted to understand the antifungal activity of carvone on potato tubers and other plant diseases, it was also meant to analyze the suppression of sprout in potatoes. The results suggested that during in-vitro experiments, carvone exhibited antifungal activity towards various fungal species. Thus carvone has taken the trade name talent to serve as an antifungal agent in the treatment of potato tubers in Netherlands.</p>
+                </ul>
+                <h3 class="has-text-centered">powered by Aura</h3>
+                <p> Molestie ac feugiat sed lectus vestibulum. Feugiat sed lectus vestibulum mattis. Volutpat diam ut venenatis tellus in metus vulputate. Feugiat in fermentum posuere urna nec. Pharetra convallis posuere morbi leo urna molestie at. Accumsan lacus vel facilisis volutpat est velit egestas. Fermentum leo vel orci porta. Faucibus interdum posuere lorem ipsum.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- END ARTICLE -->
 
-	<p style= "font-size: 22px; text-decoration: underline">Carvone as a Pesticide</p>
-	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; background-color: #FFF0F5 ; font-size: 20px"> The extract of carvone is seen to be effective as a mosquito repellent, and at present it is being reviewed by the U.S. Environmental Protection Agency to check its potency and safety as a pesticide.</p>
+          <!-- START ARTICLE -->
+          <div class="card article">
+            <div class="card-content">
+              <div class="media">
+                <div class="media-center">
+                    <img src="http://www.radfaces.com/images/avatars/skeeter-valentine.jpg" class="author-image" alt="Placeholder image">
+                </div>
+                <div class="media-content has-text-centered">
+                  <p class="title article-title">Sapien eget mi proin sed 🙌</p>
+                  <p class="subtitle is-6 article-subtitle">
+                    <a href="#">@skeetskeet</a> on October 7, 2017
+                  </p>
+                </div>
+              </div>
+            <div class="content article-body">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Accumsan lacus vel facilisis volutpat est velit egestas. Sapien eget mi proin sed. Sit amet mattis vulputate enim. 
+              </p>
+              <p>
+              Commodo ullamcorper a lacus vestibulum sed arcu. Fermentum leo vel orci porta non. Proin fermentum leo vel orci porta non pulvinar. Imperdiet proin fermentum leo vel. Tortor posuere ac ut consequat semper viverra. Vestibulum lectus mauris ultrices eros. </p>
+              <h3 class="has-text-centered">Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Cras tincidunt lobortis feugiat vivamus.</h3> 
+              <p>
+                In eu mi bibendum neque egestas congue quisque egestas diam. Enim nec dui nunc mattis enim ut tellus. Ut morbi tincidunt augue interdum velit euismod in. At in tellus integer feugiat scelerisque varius morbi enim nunc. Vitae suscipit tellus mauris a diam. Arcu non sodales neque sodales ut etiam sit amet.
+              </p>
+              </div>
+            </div>
+          </div>
+          <!-- END ARTICLE -->
 
-	<p style= "font-size: 22px; text-decoration: underline">Carvone as a Relaxant</p>
-	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; background-color: #FFF0F5 ; font-size: 20px"> Carvone is a major constituent of the oil extracted from the caraway seed and is seen in huge quantities with a percentage as far as 99%. As a relaxant it helps relieve from stress, emotional exhaustion, and clear respiratory tracts by acting as an expectorant in the treatment of coughs, bronchitis, and bronchial asthma. In the treatment of laryngitis and sore throats it helps by flushing out the toxins to aid in a speedy recovery. It aids in relaxing the digestive system and in the treatment of stomach colic, gastric spasms, flatulence, and nervous digestion. It is also used in clearing the urinary tract as well.</p>
+          <!-- START PROMO BLOCK -->
+          <section class="hero is-info is-bold is-small promo-block">
+            <div class="hero-body">
+              <div class="container">
+                <h1 class="title">
+                  <i class="fa fa-bell-o"></i> 
+                   Lorem dolor sed viverra
+                </h1>
+                <h2 class="subtitle">
+                  Consequat id porta nibh venenatis cras sed felis eget
+                </h2>
+              </div>
+            </div>
+          </section>
+          <!-- END PROMO BLOCK -->
 
+          <!-- START ARTICLE -->
+          <div class="card article">
+            <div class="card-content">
+              <div class="media">
+                <div class="media-center">
+                    <img src="http://www.radfaces.com/images/avatars/garth-algar.jpg" class="author-image" alt="Placeholder image">
+                </div>
+                <div class="media-content has-text-centered">
+                  <p class="title article-title">Cras tincidunt lobortis feugiat vivamus.</p>
+                  <p class="subtitle is-6 article-subtitle">
+                    <a href="#">@galgar</a> on October 7, 2017
+                  </p>
+                </div>
+              </div>
+            <div class="content article-body">
+              <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Accumsan lacus vel facilisis volutpat est velit egestas. Sapien eget mi proin sed. Sit amet mattis vulputate enim. 
+              </p>
+              <p>
+              Commodo ullamcorper a lacus vestibulum sed arcu. Fermentum leo vel orci porta non. Proin fermentum leo vel orci porta non pulvinar. Imperdiet proin fermentum leo vel. Tortor posuere ac ut consequat semper viverra. Vestibulum lectus mauris ultrices eros. </p>
+              <h3 class="has-text-centered">Lectus vestibulum mattis ullamcorper velit sed ullamcorper morbi. Cras tincidunt lobortis feugiat vivamus.</h3> 
+              <p>
+                In eu mi bibendum neque egestas congue quisque egestas diam. Enim nec dui nunc mattis enim ut tellus. Ut morbi tincidunt augue interdum velit euismod in. At in tellus integer feugiat scelerisque varius morbi enim nunc. Vitae suscipit tellus mauris a diam. Arcu non sodales neque sodales ut etiam sit amet.
+              </p>
+              </div>
+            </div>
+          </div>
+          <!-- END ARTICLE -->
+    </section>
+    <!-- END ARTICLE FEED -->
+  </div>
+  <script async type="text/javascript" src="../js/bulma.js"></script>
 </body>
 </html>
-
-<footer>
-	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; font-size: 22px"> by Izra Aulifa
-</footer>
