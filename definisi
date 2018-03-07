@@ -13,7 +13,7 @@
 
 <H1 align="center"><marquee scrollamount=”10”>Usefull Carvone</marquee></H1>
 <div class="parallax; style= "></div> 
-<center></center><img src="img/download.png" style="float:center;width:250px;height:300px; margin-left: 50px">
+<center><img src="img/download.png" style="width:250px;height:300px; margin-left: 50px">
 
 
 	<p style= "font-size: 22px ; text-decoration: underline"> Uses of Carvone </p>
@@ -30,11 +30,8 @@
 	<p style= "font-size: 22px; text-decoration: underline">Carvone as a Pesticide</p>
 	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; background-color: #FFF0F5 ; font-size: 20px"> The extract of carvone is seen to be effective as a mosquito repellent, and at present it is being reviewed by the U.S. Environmental Protection Agency to check its potency and safety as a pesticide.</p>
 
-	<p style= "font-size: 22px; text-decoration: underline">Carvone and its Therapeutic Uses</p>
-	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; background-color: #FFF0F5 ; font-size: 20px"> Carvone displays biological activities as an expectorant tonic, disinfectant, cardiac, stomachic, astringent, carminative, diuretic, and digestive stimulant.</p>
-
 	<p style= "font-size: 22px; text-decoration: underline">Carvone as a Relaxant</p>
-	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; background-color: #FFF0F5 ; font-size: 20px"> Carvone is a major constituent of the oil extracted from the caraway seed and is seen in huge quantities with a percentage as far as 99%. As a relaxant it helps relieve from stress, emotional exhaustion, and clear respiratory tracts by acting as an expectorant in the treatment of coughs, bronchitis, and bronchial asthma. In the treatment of laryngitis and sore throats it helps by flushing out the toxins to aid in a speedy recovery. It aids in relaxing the digestive system and in the treatment of stomach colic, gastric spasms, flatulence, and nervous digestion. It’s also used in clearing the urinary tract as well.</p>
+	<p style="text-align: justify; text-indent: 0.5in; font-family: Calibri ; background-color: #FFF0F5 ; font-size: 20px"> Carvone is a major constituent of the oil extracted from the caraway seed and is seen in huge quantities with a percentage as far as 99%. As a relaxant it helps relieve from stress, emotional exhaustion, and clear respiratory tracts by acting as an expectorant in the treatment of coughs, bronchitis, and bronchial asthma. In the treatment of laryngitis and sore throats it helps by flushing out the toxins to aid in a speedy recovery. It aids in relaxing the digestive system and in the treatment of stomach colic, gastric spasms, flatulence, and nervous digestion. It is also used in clearing the urinary tract as well.</p>
 
 </body>
 </html>
